@@ -19,7 +19,7 @@ ourData = {"intents": [
 
     {"tag": "age",
      "patterns": ["how old are you?", "Age?", "You're sexy"],
-     "responses": ["I am 2 years old"]
+     "responses": ["I am 1 years old"]
      },
     {"tag": "greeting",
      "patterns": ["Hi", "Hello", "Hey"],
